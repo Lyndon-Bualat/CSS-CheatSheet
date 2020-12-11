@@ -61,12 +61,12 @@ document.getElementById("color1").placeholder =
 // ----------------------btns--------------------------
 document.getElementById("home").onclick = home;
 function home() {
-  window.open(" ");
+  window.open("https://lyndon-bualat.github.io/Portfolio/#");
 }
 
 document.getElementById("htmlLink").onclick = htmlLink;
 function htmlLink() {
-  window.open(" ");
+  window.open("https://lyndon-bualat.github.io/HTML-CheatSheet/ ");
 }
 
 
