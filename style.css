@@ -79,7 +79,7 @@ nav ul li a:hover {
 /* --------------Intro------------------ */
 .head1 {
   display: flex;
-  background-image: url('image/back.jpg');
+  background-image: url('image/back.JPG');
   background-repeat: no-repeat;
   background-size: cover;
   height: var(--Height);
